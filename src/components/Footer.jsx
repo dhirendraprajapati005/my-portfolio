@@ -28,10 +28,10 @@ const Footer = () => {
             This is me, Dhirendra Prajapati, student at DDU University, Gorakhpur. I am a coding enthusiast as well as I enjoy learning new skills.
           </p>
           <div className="flex gap-4">
-            <a href="https://www.facebook.com/profile.php?id=100087070383220&mibextid=2JQ9oc" target="_blank" rel="noreferrer">
+            <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
               <FaFacebook size={26} className="hover:text-blue-500 transition" />
             </a>
-            <a href="https://www.linkedin.com/in/akanksha-wattamwar-313a81276" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
               <FaLinkedin size={26} className="hover:text-blue-400 transition" />
             </a>
             <a href="https://t.me/abwiitk" target="_blank" rel="noreferrer">
